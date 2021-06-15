@@ -735,7 +735,7 @@ margin-right: 30px; */
 
 .project-thumb {
   position: relative;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .overlay {
